@@ -8,4 +8,6 @@ module com.sde.pswrdmanager {
 
     opens com.sde.pswrdmanager to javafx.fxml;
     exports com.sde.pswrdmanager;
+    exports com.sde.pswrdmanager.Controllers;
+    opens com.sde.pswrdmanager.Controllers to javafx.fxml;
 }

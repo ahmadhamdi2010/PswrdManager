@@ -1,4 +1,4 @@
-package com.sde.pswrdmanager;
+package com.sde.pswrdmanager.Controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
